@@ -10,7 +10,7 @@ body {
   text-align: center;
   font-size: 2rem;
   font-weight: bold;
-  background-color: #128C7E;
+  background-color: midnightblue;
   color: white;
   padding: 15px;
   border-radius: 10px;
@@ -26,7 +26,7 @@ body {
 
 .day-card {
   background-color: #fefefe;
-  border: 2px solid #128C7E;
+  border: 2px solid midnightblue;
   border-radius: 15px;
   padding: 20px;
   box-shadow: 0 8px 15px rgba(0,0,0,0.1);
@@ -41,7 +41,7 @@ body {
 .day-card h2 {
   margin-bottom: 15px;
   font-size: 1.4rem;
-  color: #0b5e48;
+  color: midnightblue;
 }
 
 .meal-buttons {
@@ -56,7 +56,7 @@ body {
   padding: 8px 15px;
   border: none;
   border-radius: 10px;
-  background-color: #128C7E;
+  background-color: midnightblue;
   color: white;
   font-weight: bold;
   cursor: pointer;
@@ -64,7 +64,7 @@ body {
 }
 
 .meal-buttons button:hover {
-  background-color: #0e6e5d;
+  background-color: gray;
 }
 
 .meal-detail {

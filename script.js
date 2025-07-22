@@ -76,7 +76,7 @@ meals.forEach((meal) => {
 });
 
 function showMeal(button, text) {
-  // Remove existing details
+  
   const existing = button.parentElement.nextElementSibling;
   if (existing && existing.classList.contains("meal-detail")) {
     existing.remove();
