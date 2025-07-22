@@ -1,61 +1,62 @@
 const meals = [
   {
-    day: "Monday",
-    breakfast: "Oats with groundnut & banana smoothie",
-    lunch: "Efo riro with brown rice & grilled chicken",
-    dinner: "Beans & plantain (small portion), 2 boiled eggs",
-    snack: "Groundnuts, boiled corn",
-    water: "3–4L throughout the day"
-  },
-  {
-    day: "Tuesday",
-    breakfast: "Egg white omelette, avocado, 1 slice whole wheat bread",
-    lunch: "Ofada rice with ayamase (light oil), grilled tilapia",
-    dinner: "Moi moi & vegetable salad, 1 boiled egg",
-    snack: "Tiger nuts, cucumbers",
-    water: "Sip water every 30 mins during workouts"
-  },
-  {
-    day: "Wednesday",
-    breakfast: "Pap (akamu) with moi moi or boiled egg",
-    lunch: "Jollof rice with steamed veggies & beef (lean cut)",
-    dinner: "Sweet potatoes & beans, avocado slices",
-    snack: "Fruit salad (pawpaw, watermelon, banana)",
-    water: "Minimum 3L, hydrate post-meals"
-  },
-  {
-    day: "Thursday",
-    breakfast: "Greek yogurt with honey & granola, banana",
-    lunch: "Amala with ewedu & grilled turkey (light stew)",
-    dinner: "Boiled yam & egg sauce with tomatoes",
-    snack: "Cashew nuts, apple",
-    water: "Drink 1 cup before & after each meal"
-  },
-  {
-    day: "Friday",
-    breakfast: "Plantain pancake & 2 boiled eggs",
-    lunch: "Fried rice with grilled chicken & veggie stir-fry",
-    dinner: "Okra soup with wheat swallow & tilapia",
-    snack: "Boiled corn, coconut chunks",
-    water: "Keep sipping during workout & meals"
-  },
-  {
-    day: "Saturday",
-    breakfast: "Smoothie (banana, tigernut, oats, date), 1 boiled egg",
-    lunch: "Egusi soup with semo & grilled beef (moderate oil)",
-    dinner: "Spaghetti with boiled egg & mixed veggies",
-    snack: "Groundnut cake (kulikuli), watermelon",
-    water: "3–4L minimum with short breaks"
-  },
-  {
-    day: "Sunday",
-    breakfast: "Akara with pap (low sugar), 2 boiled eggs",
-    lunch: "Rice and stew with grilled chicken & steamed ugu",
-    dinner: "Yam porridge with ugu, 1 boiled egg",
-    snack: "Tiger nuts, pawpaw",
-    water: "Hydrate early, rest, then sip till night"
-  }
-];
+      day: "Monday",
+      breakfast: "Rice & stew with proteins of your choice",
+      lunch: "Eba with okra soup (loaded with fish and ponmo)",
+      dinner: "Boiled plantain with peppered turkey, boiled eggs & steamed veggies",
+      snack: "Boiled groundnuts, coconut chips",
+      water: "3–4L, start with a big cup in the morning"
+    },
+    {
+      day: "Tuesday",
+      breakfast: "Yam and egg sauce with onions & tomatoes",
+      lunch: "Amala with ewedu, gbegiri & grilled beef (light oil)",
+      dinner: "Beans porridge with fried plantain and 1 boiled egg",
+      snack: "Tiger nuts, garden eggs with peanut butter",
+      water: "Hydrate before and after each workout set"
+    },
+    {
+      day: "Wednesday",
+      breakfast: "Akara with pap (low sugar), 2 boiled eggs",
+      lunch: "Jollof rice with moi moi and grilled chicken breast",
+      dinner: "Semo with ogbono soup & assorted meat (lean cuts)",
+      snack: "Fruit salad with pawpaw, banana, cucumber",
+      water: "3L minimum, sip slowly after meals"
+    },
+    {
+      day: "Thursday",
+      breakfast: "Moi moi & custard with milk (low sugar)",
+      lunch: "Ofada rice with ayamase & grilled fish (minimal oil)",
+      dinner: "Boiled yam & egg stew with vegetables",
+      snack: "Kulikuli, roasted corn",
+      water: "Drink 1 cup every hour consistently"
+    },
+    {
+      day: "Friday",
+      breakfast: "Plantain frittata with a side of sweet potatoes",
+      lunch: "Egusi soup with eba & grilled chicken (moderate oil)",
+      dinner: "Goat meat peppersoup",
+      snack: "Cashew nuts, apple slices",
+      water: "Keep sipping throughout the day"
+    },
+    {
+      day: "Saturday",
+      breakfast: "Ogi with akara and 2 boiled eggs",
+      lunch: "Yam porridge with ugu & dried fish",
+      dinner: "Spaghetti jollof with beef stir-fry and carrots",
+      snack: "Boiled groundnuts, cucumber sticks",
+      water: "3–4L total, especially post-exercise"
+    },
+    {
+      day: "Sunday",
+      breakfast: "Bread and egg sandwich with tea (no sugar)",
+      lunch: "Rice and stew with fried plantain & steamed ugu",
+      dinner: "Okra soup with amala & grilled turkey",
+      snack: "Tiger nuts, pawpaw slices",
+      water: "Start with 2 glasses before noon, then sip"
+    }
+  ];
+  
 
 const container = document.getElementById("meal-plan-container");
 
