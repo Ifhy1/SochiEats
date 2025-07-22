@@ -2,7 +2,7 @@ const meals = [
   {
       day: "Monday",
       breakfast: "Rice & stew with proteins of your choice",
-      lunch: "Eba with okra soup (loaded with fish and ponmo)",
+      lunch: "Optional: Golden morn with milk (low sugar)",
       dinner: "Boiled plantain with peppered turkey, boiled eggs & steamed veggies",
       snack: "Boiled groundnuts, coconut chips",
       water: "3–4L, start with a big cup in the morning"
@@ -10,8 +10,8 @@ const meals = [
     {
       day: "Tuesday",
       breakfast: "Yam and egg sauce with onions & tomatoes",
-      lunch: "Amala with ewedu, gbegiri & grilled beef (light oil)",
-      dinner: "Beans porridge with fried plantain and 1 boiled egg",
+      lunch: "Optional: Greek yogurt with granola",
+      dinner: "Eba with okra soup (loaded with fish and ponmo)",
       snack: "Tiger nuts, garden eggs with peanut butter",
       water: "Hydrate before and after each workout set"
     },
@@ -25,23 +25,23 @@ const meals = [
     },
     {
       day: "Thursday",
-      breakfast: "Moi moi & custard with milk (low sugar)",
-      lunch: "Ofada rice with ayamase & grilled fish (minimal oil)",
+      breakfast: "Beans porridge with plantain with turkey or boiled eggs",
+      lunch: "Optional: Smoothie with spinach, banana, and protein powder",
       dinner: "Boiled yam & egg stew with vegetables",
-      snack: "Kulikuli, roasted corn",
+      snack: "Roasted corn with coconut, carrot",
       water: "Drink 1 cup every hour consistently"
     },
     {
       day: "Friday",
-      breakfast: "Plantain frittata with a side of sweet potatoes",
-      lunch: "Egusi soup with eba & grilled chicken (moderate oil)",
-      dinner: "Goat meat peppersoup",
+      breakfast: "Boiled potatoes with egg sauce and vegetables",
+      lunch: "Optional: Golden morn )",
+      dinner: "Goat meat peppersoup or Nkwobi or Isi Ewu with ugba",
       snack: "Cashew nuts, apple slices",
       water: "Keep sipping throughout the day"
     },
     {
       day: "Saturday",
-      breakfast: "Ogi with akara and 2 boiled eggs",
+      breakfast: "Pap with akara and 2 boiled eggs",
       lunch: "Yam porridge with ugu & dried fish",
       dinner: "Spaghetti jollof with beef stir-fry and carrots",
       snack: "Boiled groundnuts, cucumber sticks",
@@ -50,7 +50,7 @@ const meals = [
     {
       day: "Sunday",
       breakfast: "Bread and egg sandwich with tea (no sugar)",
-      lunch: "Rice and stew with fried plantain & steamed ugu",
+      lunch: "Rice and stew with fried plantain, Salad & steamed ugu",
       dinner: "Okra soup with amala & grilled turkey",
       snack: "Tiger nuts, pawpaw slices",
       water: "Start with 2 glasses before noon, then sip"
