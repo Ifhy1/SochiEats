@@ -87,3 +87,7 @@ function showMeal(button, text) {
   detail.textContent = text;
   button.parentElement.parentElement.appendChild(detail);
 }
+
+document.getElementById("theme-toggle").addEventListener("click", () => {
+  document.body.classList.toggle("dark");
+});
