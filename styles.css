@@ -7,7 +7,7 @@
   --text-dark: #eee;
   --card-light: #fefefe;
   --card-dark: #1f1f1f;
-  --accent: blue;
+  --accent: midnightblue;
   --accent-dark: #00b894;
 }
 
@@ -117,7 +117,7 @@ body.dark .meal-buttons button {
   margin-top: 12px;
   padding: 12px;
   background-color: white;
-  border-left: 5px solid blue;
+  border-left: 5px solid midnightblue;
   border-radius: 10px;
   font-weight: 500;
   animation: fadeIn 0.4s ease-in;
