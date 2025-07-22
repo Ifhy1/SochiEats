@@ -63,7 +63,7 @@ meals.forEach((meal) => {
   const card = document.createElement("div");
   card.className = "day-card";
   card.innerHTML = `
-    <h2>📅 ${meal.day}</h2>
+    <h2> ${meal.day}</h2>
     <div class="meal-buttons">
       <button onclick="showMeal(this, '${meal.breakfast}')">Breakfast</button>
       <button onclick="showMeal(this, '${meal.lunch}')">Lunch</button>

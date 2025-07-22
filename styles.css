@@ -116,7 +116,7 @@ body.dark .meal-buttons button {
 .meal-detail {
   margin-top: 12px;
   padding: 12px;
-  background-color: #f0fff5;
+  background-color: white;
   border-left: 5px solid midnightblue;
   border-radius: 10px;
   font-weight: 500;
